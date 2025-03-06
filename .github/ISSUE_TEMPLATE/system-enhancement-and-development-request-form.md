@@ -16,6 +16,10 @@ assignees: ''
 - [ ] System Modification/Enchancement
 - [ ] Bug Fix
 
+## Documents Submitted
+- [ ] Registered ISO Process (please specify):
+- [ ] Draft Workflow/Work Instruction
+
 ## Date Requested
 (insert date requested from intake sheet)
 
