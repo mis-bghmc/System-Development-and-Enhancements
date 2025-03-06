@@ -19,6 +19,9 @@ assignees: ''
 ## Date Requested
 (insert date requested from intake sheet)
 
+## Date Received
+(insert date received from intake sheet)
+
 ## Requested by
 - **Requesting office:**
 - **Requesting person (from IS):**
