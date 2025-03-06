@@ -16,20 +16,13 @@ assignees: ''
 - [ ] System Modification/Enchancement
 - [ ] Bug Fix
 
+## Systems/Modules Affected (If System Enhancement/Modification)
+- System 1
+- System 2
+
 ## Documents Submitted
 - [ ] Registered ISO Process (please specify):
 - [ ] Draft Workflow/Work Instruction
-
-## Date Requested
-(insert date requested from intake sheet)
-
-## Date Received
-(insert date received from intake sheet)
-
-## Requested by
-- **Requesting office:**
-- **Requesting person (from IS):**
-- **Office Contact no:**
 
 ## Priority Level
 - [ ] High
@@ -42,6 +35,17 @@ assignees: ''
 - etc
 - can be one paragraph
 
-## Systems Affected (If System Enhancement/Modification)
-- System 1
-- System 2
+## Date Requested
+(insert date requested from intake sheet)
+
+## Date Received
+(insert date received from intake sheet)
+
+## Requested by
+- **Requesting office:**
+- **Requesting person (from IS):**
+- **Office Contact no:**
+
+
+
+
