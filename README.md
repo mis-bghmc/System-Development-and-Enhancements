@@ -32,4 +32,7 @@ For inquiries and collaboration:
 📧 **Email:** [mis@bghmc.doh.gov.ph](mailto:mis@bghmc.doh.gov.ph)  
 🌐 **Website:** [https://bghmc.doh.gov.ph](https://bghmc.doh.gov.ph)  
 
+
 Let’s work together to improve healthcare technology at **BGHMC!** 🏥🚀  
+
+# [Project Link](https://github.com/orgs/mis-bghmc/projects/10)
